@@ -8,7 +8,7 @@
 <br>
 - 💞️ I’m looking to collaborate on what I’interested in.
 <br>
-- 📫 How to reach me :Email
+- 📫 How to contact me :Email
 
 <!---
 JUKOMU/JUKOMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
