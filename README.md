@@ -1,24 +1,33 @@
-- 👋 Hi, I’m @JUKOMU, a college student,program beginner
-
 <div align=center>
-<img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/2.png" width="200px" height="200px">
+ <div>
+ 👋 Hi, I’m @JUKOMU, a college student,program beginner
+</div>
+<div>
+<img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/2.png" width="300px" height="300px">
+</div>
+<div>
+<br>
+👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
+<br>
+🌱 I’m currently learning Python(major),C++,Java,CSS,JavaScript,HTML...
+<br>
+💞️ I’m looking to collaborate on what I’interested in.
+<br>
+📫 How to contact me :Email
+</div>
 </div>
  
-<br>
-- 👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
-<br>
-- 🌱 I’m currently learning Python(major),C++,Java,CSS,JavaScript,HTML...
-<br>
-- 💞️ I’m looking to collaborate on what I’interested in.
-<br>
-- 📫 How to contact me :Email
-
 <p></p>
+<p>
 
-[![JUKOMU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukomu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        [![JUKOMU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukomu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukomu)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
+ <p>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukomu)](https://github.com/anuraghazra/github-readme-stats)
 
+  </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
