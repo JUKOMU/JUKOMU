@@ -1,20 +1,20 @@
 <div align=center>
  <div>
- 👋 Hi, I’m @JUKOMU, a college student,program beginner
+  
+ ### 👋 Hi, I’m @JUKOMU, a college student,program beginner
+  
 </div>
 <div>
 <img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/2.png" width="300px" height="300px">
 </div>
 <div>
-<br>
-👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
-<br>
-🌱 I’m currently learning Python(major),C++,Java,CSS,JavaScript,HTML...
-<br>
-💞️ I’m looking to collaborate on what I’interested in.
-<br>
-📫 How to contact me :Email
-</div>
+ 
+#### 👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
+#### 🌱 I’m currently learning Python(major),C++,Java,CSS,JavaScript,HTML...
+#### 💞️ I’m looking to collaborate on what I’interested in.
+#### 📫 How to contact me :3037738647@qq.com
+
+ </div>
 </div>
  
 <p></p>
