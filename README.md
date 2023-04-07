@@ -41,6 +41,15 @@
   <div align=center>
 <img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/541431167395903722.png" width="500px" height="500px">
 </div>
+
+<h3 align="center" font-size="20px"> 
+写前端找this guy———><a href="https://github.com/SGYSY">SGYSY</a>
+
+</h3>
+
+<div align=center>
+<img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/%E5%90%8E%E7%AB%AF%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%86%99%E4%BA%86.png" width="500px">
+</div>
 <!---
 JUKOMU/JUKOMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
