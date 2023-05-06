@@ -62,9 +62,12 @@ I like playing OSU！
 <img src="https://sign2.hiosu.com/Jukomu&m.php" width="400px">
 </div>
 <p></p>
+
+<!---
 <div align=center>
 <img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/osuJUKOMU.png" width="800px">
 </div>
+--->
 
 <!---
 JUKOMU/JUKOMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
