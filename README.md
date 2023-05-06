@@ -59,8 +59,9 @@ I like playing OSU！
 </p>
 </div>
 <div align=center>
-<img src="https://sign2.hiosu.com/Jukomu&m.php" width="800px">
+<img src="https://sign2.hiosu.com/Jukomu&m.php" width="400px">
 </div>
+<p></p>
 <div align=center>
 <img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/osuJUKOMU.png" width="800px">
 </div>
