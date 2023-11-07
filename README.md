@@ -4,9 +4,11 @@
  #### College student
   
 </div>
+<!--
 <div>
 <img src="https://github.com/JUKOMU/JUKOMU/blob/main/IMG/2.png" width="300px" height="300px">
 </div>
+-->
 <div>
  
 #### 👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
