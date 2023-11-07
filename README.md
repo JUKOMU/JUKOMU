@@ -1,7 +1,7 @@
 <div align=center>
  <div>
   
- ### 👋 Hi, I’m @JUKOMU, a college student,program beginner
+ #### College student
   
 </div>
 <div>
