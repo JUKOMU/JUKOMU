@@ -61,7 +61,7 @@ I like playing OSU！
 </p>
 </div>
 <div align=center>
-<img src="https://sign.hiosu.com/Jukomu&m.amd" width="600px">
+<img src="[https://sign.hiosu.com/Jukomu&m.amd](https://sig2.hiosu.com/Jukomu&m.php)" width="600px">
 </div>
 <p></p>
 
