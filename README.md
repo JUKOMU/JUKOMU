@@ -10,12 +10,12 @@
 </div>
 -->
 <div>
- 
+ <!--
 #### 👀 I’m interested in Machine Learning,Deep Learning,AI,back-end,fore-end
 #### 🌱 I’m currently learning Python(major),C++,Java,CSS,JavaScript,HTML...
 #### 💞️ I’m looking to collaborate on what I’interested in.
 #### 📫 How to contact me :3037738647@qq.com
-
+-->
  </div>
 </div>
 <p></p>
